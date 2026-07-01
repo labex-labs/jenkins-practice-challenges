@@ -1,37 +1,34 @@
-# Sklearn 実践チャレンジ
+# Jenkins 実践チャレンジ
 
 ## 言語
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇷🇺 [Русский](README_ru.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Sklearn 実践チャレンジ](https://cover-creator.labex.io/sklearn-practice-challenges.png?lang=ja)](https://labex.io/ja/courses/sklearn-practice-challenges)
+<div align="center">
+<img width="128px" src="https://file.labex.io/upload/u/1991/hFQITDSIxzQ1.png">
+</div>
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ja/courses/sklearn-practice-challenges)
+継続的インテグレーションとデリバリーの主要ツールである Jenkins を、この包括的な学習パスで習得しましょう。これらの Jenkins コースは DevOps 初心者向けに設計されており、自動ビルド、テスト、デプロイメントを習得するための体系的なロードマップを提供します。実践的な CI/CD プレイグラウンドでの非動画演習を通じて、Jenkins パイプラインのセットアップと管理における実世界の経験を積むことができます。
 
-このコースには Sklearn に関する多数のチャレンジが含まれています。各チャレンジは、詳細な指示と解決策を備えた小規模な Sklearn プロジェクトです。これらのチャレンジを解くことで、Sklearn のスキルを練習し、問題解決能力を向上させ、クリーンで効率的なコードの書き方を学ぶことができます。
+LabEx の最大 9 個の Jenkins 集中チャレンジを一覧できます。各チャレンジはインタラクティブ環境で開き、特定のスキルを練習できます。
 
-![Sklearn](https://img.shields.io/badge/Sklearn-whitesmoke?style=for-the-badge&logo=sklearn)
+|   インデックス | 名前                                                                                                        | スキル              | 難易度   | 練習                                                                                          |
+|----------|-----------------------------------------------------------------------------------------------------------|------------------|-------|---------------------------------------------------------------------------------------------|
+|        1 | [Docker で Jenkins を調査する](https://labex.io/ja/labs/jenkins-installing-jenkins-with-docker-challenge-29061) | ポート公開            | 初級    | [チャレンジを開始](https://labex.io/ja/labs/jenkins-installing-jenkins-with-docker-challenge-29061) |
+|        2 | [Jenkins の調査とパイプラインの作成](https://labex.io/ja/labs/jenkins-install-jenkins-and-create-pipeline-7771)        | Jenkinsfile 構造   | 初級    | [チャレンジを開始](https://labex.io/ja/labs/jenkins-install-jenkins-and-create-pipeline-7771)       |
+|        3 | [Jenkins プラグインのメンテナンス監査](https://labex.io/ja/labs/jenkins-jenkins-plugin-management-40829)                | プラグインのライフサイクル    | 初級    | [チャレンジを開始](https://labex.io/ja/labs/jenkins-jenkins-plugin-management-40829)                |
+|        4 | [Jenkins 認証情報の管理](https://labex.io/ja/labs/jenkins-jenkins-credentials-management-67529)                  | ジョブタイプ           | 初級    | [チャレンジを開始](https://labex.io/ja/labs/jenkins-jenkins-credentials-management-67529)           |
+|        5 | [Jenkins ビューの管理](https://labex.io/ja/labs/jenkins-jenkins-view-management-67545)                          | Jenkins インターフェース | 初級    | [チャレンジを開始](https://labex.io/ja/labs/jenkins-jenkins-view-management-67545)                  |
+|        6 | [視覚的な Jenkins パイプラインの準備](https://labex.io/ja/labs/jenkins-challenge-jenkins-blue-ocean-plugin-145227)     | Pipeline の可視化    | 初級    | [チャレンジを開始](https://labex.io/ja/labs/jenkins-challenge-jenkins-blue-ocean-plugin-145227)     |
+|        7 | [npm スタイルの Jenkins ビルドを作成する](https://labex.io/ja/labs/jenkins-jenkins-integration-npm-plugin-148879)      | Pipeline ステップ    | 初級    | [チャレンジを開始](https://labex.io/ja/labs/jenkins-jenkins-integration-npm-plugin-148879)          |
+|        8 | [Jenkins ユーザーの管理](https://labex.io/ja/labs/jenkins-jenkins-user-management-challenge-149236)              | 役割と権限            | 初級    | [チャレンジを開始](https://labex.io/ja/labs/jenkins-jenkins-user-management-challenge-149236)       |
+|        9 | [Maven スタイルの Jenkins ビルドを作成する](https://labex.io/ja/labs/jenkins-jenkins-integration-maven-plugin-189626)  | Pipeline ステップ    | 初級    | [チャレンジを開始](https://labex.io/ja/labs/jenkins-jenkins-integration-maven-plugin-189626)        |
 
-
-## 演習
-
-|   インデックス | 名前                             | 難易度   | 練習                                                                                                                                                                     |
-|----------------|----------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|              1 | 🎯  メトリックスと評価の理解     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-understanding-metrics-and-scoring-185172?course=sklearn-practice-challenges'>チャレンジを開始</a>               |
-|              2 | 🎯  ナイーブベイズ分類           | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-naive-bayes-classification-250427?course=sklearn-practice-challenges'>チャレンジを開始</a>                      |
-|              3 | 🎯  近傍法を用いた花の種類の予測 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147?course=sklearn-practice-challenges'>チャレンジを開始</a> |
-|              4 | 🎯  検証曲線の理解               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-understanding-validation-curves-106940?course=sklearn-practice-challenges'>チャレンジを開始</a>                 |
-|              5 | 🎯  決定木                       | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-decision-trees-92597?course=sklearn-practice-challenges'>チャレンジを開始</a>                                   |
-|              6 | 🎯  線形回帰                     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-linear-regression-185171?course=sklearn-practice-challenges'>チャレンジを開始</a>                               |
-|              7 | 🎯  クラスタリングと洞察         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/python-clustering-and-insights-198286?course=sklearn-practice-challenges'>チャレンジを開始</a>                         |
-
-## LabEx について
-
-[LabEx](https://labex.io) は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、[LabEx](https://labex.io) は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
+[すべてのチャレンジを見る](https://labex.io/ja/learn/jenkins).
 
 ## その他
 
-- 🔗 [scikit-learn プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [scikit-learn プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [scikit-learn 無料チュートリアル](https://github.com/labex-labs/sklearn-free-tutorials)
+- 🔗 [LabEx で Jenkins について詳しく見る](https://labex.io/ja/learn/jenkins)
+- 🔗 [さらにプログラミングプロジェクトを見る](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [プログラミングコースを見る](https://github.com/labex-labs/awesome-programming-courses)
 
