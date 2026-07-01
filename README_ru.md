@@ -1,37 +1,34 @@
-# Практические задачи по Sklearn
+# Практические испытания Jenkins
 
 ## Языки
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇷🇺 [Русский](README_ru.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Практические задачи по Sklearn](https://cover-creator.labex.io/sklearn-practice-challenges.png?lang=ru)](https://labex.io/ru/courses/sklearn-practice-challenges)
+<div align="center">
+<img width="128px" src="https://file.labex.io/upload/u/1991/hFQITDSIxzQ1.png">
+</div>
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ru/courses/sklearn-practice-challenges)
+Изучите Jenkins, ведущий инструмент для непрерывной интеграции и доставки, с помощью этого всеобъемлющего учебного плана. Эти курсы Jenkins разработаны для новичков в DevOps, предоставляя структурированную дорожную карту для освоения автоматизированной сборки, тестирования и развертывания. Получите реальный опыт настройки и управления конвейерами Jenkins с помощью практических упражнений без видео в интерактивной среде CI/CD.
 
-В этом курсе содержится множество задач по Sklearn. Каждая задача представляет собой небольшой проект на Sklearn с подробными инструкциями и решениями. Вы можете практиковать свои навыки работы с Sklearn, решая эти задачи, улучшить свои навыки решения проблем и научиться писать чистый и эффективный код.
+Просмотрите до 9 целевых испытаний Jenkins на LabEx. Каждое испытание открывается в интерактивной среде для отработки конкретных навыков.
 
-![Sklearn](https://img.shields.io/badge/Sklearn-whitesmoke?style=for-the-badge&logo=sklearn)
+|   Индекс | Название                                                                                                                         | Навыки                 | Сложность   | Практика                                                                                            |
+|----------|----------------------------------------------------------------------------------------------------------------------------------|------------------------|-------------|-----------------------------------------------------------------------------------------------------|
+|        1 | [Инспекция Jenkins в Docker](https://labex.io/ru/labs/jenkins-installing-jenkins-with-docker-challenge-29061)                    | Публикация портов      | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/jenkins-installing-jenkins-with-docker-challenge-29061) |
+|        2 | [Проверка Jenkins и создание конвейера (Pipeline)](https://labex.io/ru/labs/jenkins-install-jenkins-and-create-pipeline-7771)    | Структура Jenkinsfile  | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/jenkins-install-jenkins-and-create-pipeline-7771)       |
+|        3 | [Аудит обслуживания плагинов Jenkins](https://labex.io/ru/labs/jenkins-jenkins-plugin-management-40829)                          | Жизненный цикл плагина | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/jenkins-jenkins-plugin-management-40829)                |
+|        4 | [Управление учетными данными Jenkins](https://labex.io/ru/labs/jenkins-jenkins-credentials-management-67529)                     | Типы заданий           | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/jenkins-jenkins-credentials-management-67529)           |
+|        5 | [Управление представлениями Jenkins](https://labex.io/ru/labs/jenkins-jenkins-view-management-67545)                             | Интерфейс Jenkins      | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/jenkins-jenkins-view-management-67545)                  |
+|        6 | [Подготовка визуального конвейера Jenkins Pipeline](https://labex.io/ru/labs/jenkins-challenge-jenkins-blue-ocean-plugin-145227) | Визуализация Pipeline  | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/jenkins-challenge-jenkins-blue-ocean-plugin-145227)     |
+|        7 | [Создание сборок Jenkins в стиле npm](https://labex.io/ru/labs/jenkins-jenkins-integration-npm-plugin-148879)                    | Шаги Pipeline          | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/jenkins-jenkins-integration-npm-plugin-148879)          |
+|        8 | [Управление пользователями Jenkins](https://labex.io/ru/labs/jenkins-jenkins-user-management-challenge-149236)                   | Роли и разрешения      | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/jenkins-jenkins-user-management-challenge-149236)       |
+|        9 | [Создание сборок Jenkins в стиле Maven](https://labex.io/ru/labs/jenkins-jenkins-integration-maven-plugin-189626)                | Шаги Pipeline          | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/jenkins-jenkins-integration-maven-plugin-189626)        |
 
-
-## Упражнения
-
-|   Индекс | Название                                                  | Сложность   | Практика                                                                                                                                                                 |
-|----------|-----------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 🎯  Понимание метрик и оценки                             | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/python-understanding-metrics-and-scoring-185172?course=sklearn-practice-challenges'>Начать Испытание</a>               |
-|        2 | 🎯  Классификация наивным Байесом                         | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/python-naive-bayes-classification-250427?course=sklearn-practice-challenges'>Начать Испытание</a>                      |
-|        3 | 🎯  Предсказание типов цветов с использованием ближайш... | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147?course=sklearn-practice-challenges'>Начать Испытание</a> |
-|        4 | 🎯  Понимание кривых валидации                            | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/python-understanding-validation-curves-106940?course=sklearn-practice-challenges'>Начать Испытание</a>                 |
-|        5 | 🎯  Деревья решений                                       | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/python-decision-trees-92597?course=sklearn-practice-challenges'>Начать Испытание</a>                                   |
-|        6 | 🎯  Линейная регрессия                                    | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/python-linear-regression-185171?course=sklearn-practice-challenges'>Начать Испытание</a>                               |
-|        7 | 🎯  Кластеризация и инсайты                               | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/python-clustering-and-insights-198286?course=sklearn-practice-challenges'>Начать Испытание</a>                         |
-
-## О LabEx
-
-[LabEx](https://labex.io) - это интерактивная практическая обучающая платформа, посвященная программированию и технологиям. Она объединяет лаборатории, ИИ-помощь и виртуальные машины для обеспечения практического обучения без видео. Со строгим подходом 'Учись делая', интерактивными онлайн-средами в браузере с автоматизированными пошаговыми проверками, структурированной организацией контента с системой на основе Дерева Навыков, и растущим учебным ресурсом из 30 Деревьев Навыков и более 6,000 Лабораторий, [LabEx](https://labex.io) предлагает всестороннее практическое образование. Платформа включает ассистента обучения Labby, построенного на последних моделях ИИ, обеспечивающего разговорный опыт обучения.
+[Посмотреть все испытания](https://labex.io/ru/learn/jenkins).
 
 ## Больше
 
-- 🔗 [scikit-learn Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [scikit-learn Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [scikit-learn Бесплатные туториалы](https://github.com/labex-labs/sklearn-free-tutorials)
+- 🔗 [Узнать больше о Jenkins на LabEx](https://labex.io/ru/learn/jenkins)
+- 🔗 [Посмотреть больше проектов программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Посмотреть курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
 
