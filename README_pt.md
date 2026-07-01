@@ -1,37 +1,34 @@
-# Desafios Práticos de Sklearn
+# Desafios práticos de Jenkins
 
 ## Idiomas
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇷🇺 [Русский](README_ru.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Desafios Práticos de Sklearn](https://cover-creator.labex.io/sklearn-practice-challenges.png?lang=pt)](https://labex.io/pt/courses/sklearn-practice-challenges)
+<div align="center">
+<img width="128px" src="https://file.labex.io/upload/u/1991/hFQITDSIxzQ1.png">
+</div>
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/pt/courses/sklearn-practice-challenges)
+Aprenda Jenkins, uma ferramenta líder para integração e entrega contínuas, com este caminho de aprendizagem abrangente. Estes cursos de Jenkins são projetados para iniciantes em DevOps, fornecendo um roteiro estruturado para dominar a construção, teste e implantação automatizados. Ganhe experiência prática configurando e gerenciando pipelines Jenkins através de exercícios práticos, não em vídeo, em um ambiente de CI/CD interativo.
 
-Este curso contém diversos desafios para Sklearn, cada um sendo um pequeno projeto Sklearn com instruções e soluções detalhadas. Você pode praticar suas habilidades em Sklearn resolvendo esses desafios, aprimorar suas habilidades de resolução de problemas e aprender a escrever código limpo e eficiente.
+Explore até 9 desafios focados de Jenkins no LabEx. Cada desafio abre em um ambiente interativo para você praticar habilidades específicas.
 
-![Sklearn](https://img.shields.io/badge/Sklearn-whitesmoke?style=for-the-badge&logo=sklearn)
+|   Índice | Nome                                                                                                                   | Habilidades              | Dificuldade   | Prática                                                                                            |
+|----------|------------------------------------------------------------------------------------------------------------------------|--------------------------|---------------|----------------------------------------------------------------------------------------------------|
+|        1 | [Inspecionar o Jenkins com Docker](https://labex.io/pt/labs/jenkins-installing-jenkins-with-docker-challenge-29061)    | Publicação de portas     | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/jenkins-installing-jenkins-with-docker-challenge-29061) |
+|        2 | [Inspecionar o Jenkins e Criar um Pipeline](https://labex.io/pt/labs/jenkins-install-jenkins-and-create-pipeline-7771) | Estrutura de Jenkinsfile | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/jenkins-install-jenkins-and-create-pipeline-7771)       |
+|        3 | [Auditoria de Manutenção de Plugins do Jenkins](https://labex.io/pt/labs/jenkins-jenkins-plugin-management-40829)      | Ciclo de vida do plug-in | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/jenkins-jenkins-plugin-management-40829)                |
+|        4 | [Gerenciar Credenciais do Jenkins](https://labex.io/pt/labs/jenkins-jenkins-credentials-management-67529)              | Tipos de tarefas         | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/jenkins-jenkins-credentials-management-67529)           |
+|        5 | [Gerenciar Visualizações do Jenkins](https://labex.io/pt/labs/jenkins-jenkins-view-management-67545)                   | Interface Jenkins        | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/jenkins-jenkins-view-management-67545)                  |
+|        6 | [Preparar um Pipeline Visual do Jenkins](https://labex.io/pt/labs/jenkins-challenge-jenkins-blue-ocean-plugin-145227)  | Visualização de Pipeline | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/jenkins-challenge-jenkins-blue-ocean-plugin-145227)     |
+|        7 | [Criar builds do Jenkins no estilo npm](https://labex.io/pt/labs/jenkins-jenkins-integration-npm-plugin-148879)        | Passos de Pipeline       | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/jenkins-jenkins-integration-npm-plugin-148879)          |
+|        8 | [Gerenciar Usuários do Jenkins](https://labex.io/pt/labs/jenkins-jenkins-user-management-challenge-149236)             | Funções e permissões     | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/jenkins-jenkins-user-management-challenge-149236)       |
+|        9 | [Criar Builds do Jenkins no Estilo Maven](https://labex.io/pt/labs/jenkins-jenkins-integration-maven-plugin-189626)    | Passos de Pipeline       | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/jenkins-jenkins-integration-maven-plugin-189626)        |
 
-
-## Exercícios
-
-|   Índice | Nome                                                      | Dificuldade   | Prática                                                                                                                                                                 |
-|----------|-----------------------------------------------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 🎯  Compreendendo Métricas e Pontuação                    | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-understanding-metrics-and-scoring-185172?course=sklearn-practice-challenges'>Iniciar Desafio</a>               |
-|        2 | 🎯  Classificação Naive Bayes                             | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-naive-bayes-classification-250427?course=sklearn-practice-challenges'>Iniciar Desafio</a>                      |
-|        3 | 🎯  Previsão de Tipos de Flores com Vizinhos Mais Próx... | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/sklearn-predicting-flower-types-with-nearest-neighbors-256147?course=sklearn-practice-challenges'>Iniciar Desafio</a> |
-|        4 | 🎯  Compreendendo Curvas de Validação                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-understanding-validation-curves-106940?course=sklearn-practice-challenges'>Iniciar Desafio</a>                 |
-|        5 | 🎯  Árvores de Decisão                                    | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-decision-trees-92597?course=sklearn-practice-challenges'>Iniciar Desafio</a>                                   |
-|        6 | 🎯  Regressão Linear                                      | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-linear-regression-185171?course=sklearn-practice-challenges'>Iniciar Desafio</a>                               |
-|        7 | 🎯  Clustering e Insights                                 | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/python-clustering-and-insights-198286?course=sklearn-practice-challenges'>Iniciar Desafio</a>                         |
-
-## Sobre LabEx
-
-[LabEx](https://labex.io) é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, [LabEx](https://labex.io) oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
+[Ver todos os desafios](https://labex.io/pt/learn/jenkins).
 
 ## Mais
 
-- 🔗 [scikit-learn Cursos de Programação](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [scikit-learn Projetos de Programação](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [scikit-learn Tutoriais Gratuitos](https://github.com/labex-labs/sklearn-free-tutorials)
+- 🔗 [Saiba mais sobre Jenkins no LabEx](https://labex.io/pt/learn/jenkins)
+- 🔗 [Explore mais projetos de programação](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Explore cursos de programação](https://github.com/labex-labs/awesome-programming-courses)
 
