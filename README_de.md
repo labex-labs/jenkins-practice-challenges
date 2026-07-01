@@ -1,34 +1,34 @@
 # Jenkins Praxis-Challenges
 
-## Sprachen
+**Sprachen:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Русский](README_ru.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇷🇺 [Русский](README_ru.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-<div align="center">
-<img width="128px" src="https://file.labex.io/upload/u/1991/hFQITDSIxzQ1.png">
-</div>
+<p align="center">
+  <a href="https://labex.io/de/learn/jenkins">
+    <img width="128" src="https://file.labex.io/upload/u/1991/hFQITDSIxzQ1.png" alt="Jenkins">
+  </a>
+</p>
 
 Lernen Sie Jenkins, ein führendes Tool für Continuous Integration und Delivery, mit diesem umfassenden Lernpfad. Diese Jenkins-Kurse wurden für DevOps-Anfänger entwickelt und bieten einen strukturierten Fahrplan zur Beherrschung des automatisierten Erstellens, Testens und Bereitstellens. Sammeln Sie praktische Erfahrungen beim Einrichten und Verwalten von Jenkins-Pipelines durch praktische Übungen ohne Video in einer interaktiven CI/CD-Umgebung.
 
+[Challenges auf LabEx starten](https://labex.io/de/learn/jenkins)
+
 Durchsuchen Sie bis zu 9 fokussierte Jenkins-Challenges von LabEx. Jede Challenge öffnet sich in einer interaktiven Umgebung für gezieltes Üben.
 
-|   Index | Name                                                                                                                         | Skills                    | Schwierigkeit   | Übung                                                                                                |
-|---------|------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----------------|------------------------------------------------------------------------------------------------------|
-|       1 | [Jenkins mit Docker untersuchen](https://labex.io/de/labs/jenkins-installing-jenkins-with-docker-challenge-29061)            | Portveröffentlichung      | Anfänger        | [Challenge Starten](https://labex.io/de/labs/jenkins-installing-jenkins-with-docker-challenge-29061) |
-|       2 | [Jenkins untersuchen und eine Pipeline erstellen](https://labex.io/de/labs/jenkins-install-jenkins-and-create-pipeline-7771) | Jenkinsfile-Struktur      | Anfänger        | [Challenge Starten](https://labex.io/de/labs/jenkins-install-jenkins-and-create-pipeline-7771)       |
-|       3 | [Wartung von Jenkins-Plugins prüfen](https://labex.io/de/labs/jenkins-jenkins-plugin-management-40829)                       | Plugin-Lebenszyklus       | Anfänger        | [Challenge Starten](https://labex.io/de/labs/jenkins-jenkins-plugin-management-40829)                |
-|       4 | [Jenkins-Anmeldedaten verwalten](https://labex.io/de/labs/jenkins-jenkins-credentials-management-67529)                      | Jobtypen                  | Anfänger        | [Challenge Starten](https://labex.io/de/labs/jenkins-jenkins-credentials-management-67529)           |
-|       5 | [Jenkins-Ansichten verwalten](https://labex.io/de/labs/jenkins-jenkins-view-management-67545)                                | Jenkins-Schnittstelle     | Anfänger        | [Challenge Starten](https://labex.io/de/labs/jenkins-jenkins-view-management-67545)                  |
-|       6 | [Vorbereitung einer visuellen Jenkins-Pipeline](https://labex.io/de/labs/jenkins-challenge-jenkins-blue-ocean-plugin-145227) | Pipeline-Visualisierung   | Anfänger        | [Challenge Starten](https://labex.io/de/labs/jenkins-challenge-jenkins-blue-ocean-plugin-145227)     |
-|       7 | [Erstellen von Jenkins-Builds im npm-Stil](https://labex.io/de/labs/jenkins-jenkins-integration-npm-plugin-148879)           | Pipeline-Schritte         | Anfänger        | [Challenge Starten](https://labex.io/de/labs/jenkins-jenkins-integration-npm-plugin-148879)          |
-|       8 | [Jenkins-Benutzer verwalten](https://labex.io/de/labs/jenkins-jenkins-user-management-challenge-149236)                      | Rollen und Berechtigungen | Anfänger        | [Challenge Starten](https://labex.io/de/labs/jenkins-jenkins-user-management-challenge-149236)       |
-|       9 | [Maven-ähnliche Jenkins-Builds erstellen](https://labex.io/de/labs/jenkins-jenkins-integration-maven-plugin-189626)          | Pipeline-Schritte         | Anfänger        | [Challenge Starten](https://labex.io/de/labs/jenkins-jenkins-integration-maven-plugin-189626)        |
+|   Index | Name                                                                                                                         | Schwierigkeit   | Übung                                                                                                |
+|---------|------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------|
+|       1 | [Inspect Jenkins with Docker](https://labex.io/de/labs/jenkins-installing-jenkins-with-docker-challenge-29061)               | Anfänger        | [Challenge starten](https://labex.io/de/labs/jenkins-installing-jenkins-with-docker-challenge-29061) |
+|       2 | [Jenkins untersuchen und eine Pipeline erstellen](https://labex.io/de/labs/jenkins-install-jenkins-and-create-pipeline-7771) | Anfänger        | [Challenge starten](https://labex.io/de/labs/jenkins-install-jenkins-and-create-pipeline-7771)       |
+|       3 | [Wartung von Jenkins-Plugins prüfen](https://labex.io/de/labs/jenkins-jenkins-plugin-management-40829)                       | Anfänger        | [Challenge starten](https://labex.io/de/labs/jenkins-jenkins-plugin-management-40829)                |
+|       4 | [Jenkins-Anmeldedaten verwalten](https://labex.io/de/labs/jenkins-jenkins-credentials-management-67529)                      | Anfänger        | [Challenge starten](https://labex.io/de/labs/jenkins-jenkins-credentials-management-67529)           |
+|       5 | [Jenkins-Ansichten verwalten](https://labex.io/de/labs/jenkins-jenkins-view-management-67545)                                | Anfänger        | [Challenge starten](https://labex.io/de/labs/jenkins-jenkins-view-management-67545)                  |
+|       6 | [Prepare a Visual Jenkins Pipeline](https://labex.io/de/labs/jenkins-challenge-jenkins-blue-ocean-plugin-145227)             | Anfänger        | [Challenge starten](https://labex.io/de/labs/jenkins-challenge-jenkins-blue-ocean-plugin-145227)     |
+|       7 | [Erstellen von Jenkins-Builds im npm-Stil](https://labex.io/de/labs/jenkins-jenkins-integration-npm-plugin-148879)           | Anfänger        | [Challenge starten](https://labex.io/de/labs/jenkins-jenkins-integration-npm-plugin-148879)          |
+|       8 | [Manage Jenkins Users](https://labex.io/de/labs/jenkins-jenkins-user-management-challenge-149236)                            | Anfänger        | [Challenge starten](https://labex.io/de/labs/jenkins-jenkins-user-management-challenge-149236)       |
+|       9 | [Maven-ähnliche Jenkins-Builds erstellen](https://labex.io/de/labs/jenkins-jenkins-integration-maven-plugin-189626)          | Anfänger        | [Challenge starten](https://labex.io/de/labs/jenkins-jenkins-integration-maven-plugin-189626)        |
 
-[Alle Challenges ansehen](https://labex.io/de/learn/jenkins).
+[Mehr auf LabEx ansehen](https://labex.io/de/learn/jenkins)
 
-## Mehr
+## About LabEx
 
-- 🔗 [Mehr über Jenkins auf LabEx erfahren](https://labex.io/de/learn/jenkins)
-- 🔗 [Weitere Programmierprojekte entdecken](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Programmierkurse entdecken](https://github.com/labex-labs/awesome-programming-courses)
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 
